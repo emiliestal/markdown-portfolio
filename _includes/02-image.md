@@ -1,1 +1,1 @@
-![Image of Puppy](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*)
+![Image of Puppy](https://i.cbc.ca/1.5507480.1585002199!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/puppy-facts.jpg)
