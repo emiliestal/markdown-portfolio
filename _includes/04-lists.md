@@ -1,4 +1,4 @@
-*:sparkles:
-*:alien:
-  *:exclamation::exclamation
-  *:eye::lips::eye:
+* :sparkles:
+* :alien:
+  - :exclamation::exclamation
+  - :eye::lips::eye:
